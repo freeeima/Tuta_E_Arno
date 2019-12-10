@@ -1,0 +1,35 @@
+﻿2019-11-11T22:21:22.7730277+02:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-11-11T22:21:22.7780227+02:00;VSTestExecutionThread;Info;TestAdapter Location: C:\TUTA\TUTA_Automation\packages\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-11-11T22:21:22.8809632+02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-11-11T22:21:22.8809632+02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\TUTA\TUTA_Automation\bin\Debug\TUTA_Automation.dll
+2019-11-11T22:21:22.8809632+02:00;VSTestExecutionThread;Info;Profile: TUTA_Automation
+2019-11-11T22:21:37.0298730+02:00;Thread#13;Info;starting test run
+2019-11-11T22:21:37.0518801+02:00;Thread#13;Info;Discovering target: Default
+2019-11-11T22:21:37.0518801+02:00;Thread#13;Info;Discovering tests from assembly: C:\TUTA\TUTA_Automation\bin\Debug\TUTA_Automation.dll
+Appdomain Disposed
+Test Suite Dump
+#0: TUTA_Automation/TUTA_Automation - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-11-11T22:21:37.1458096+02:00;Thread#13;Info;test run finished
+2019-11-11T22:21:37.1468063+02:00;Thread#13;Info;publishing test results
+2019-11-11T22:21:37.1878060+02:00;Thread#13;Info;test results published
+2019-11-11T22:21:37.1878060+02:00;Thread#13;Info;generating reports
+2019-11-11T22:21:37.1947810+02:00;Thread#13;Info;creating 1 report(s)
+2019-11-11T22:21:37.1947810+02:00;Thread#13;Info;generate Report ReportTemplate.cshtml
+2019-11-11T22:21:39.0159136+02:00;Thread#13;Info;reports generated
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2019-11-11T22:21:39.0199123+02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-11-11T22:21:39.0199123+02:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\TUTA\TUTA_Automation\TestResults\TUTA_Automation_TUTA_Automation_2019-11-11T222122.html'
+2019-11-11T22:21:39.0249094+02:00;VSTestExecutionThread;Info;Log file: file:///C:\TUTA\TUTA_Automation\TestResults\TUTA_Automation_TUTA_Automation_2019-11-11T222122.log
