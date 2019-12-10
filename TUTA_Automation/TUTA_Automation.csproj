@@ -90,9 +90,7 @@
     <Compile Include="Entities\JsonObjects\PostCodeObject.cs" />
     <Compile Include="Entities\MeteoObjects.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="..\..\Namu-darbas%2810 gruodzio%29\MeteoSteps.cs">
-      <Link>Steps\MeteoSteps.cs</Link>
-    </Compile>
+    <Compile Include="Steps\MeteoSteps.cs" />
     <Compile Include="Steps\TutaAPITestingSteps.cs" />
   </ItemGroup>
   <ItemGroup>
